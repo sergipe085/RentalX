@@ -8,8 +8,4 @@ const createCategoryController = new CreateCategoryController(
     createCategoryUseCase
 );
 
-export {
-    categoriesRepository,
-    createCategoryUseCase,
-    createCategoryController,
-};
+export { createCategoryController };
