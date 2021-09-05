@@ -1,0 +1,11 @@
+{
+    "openapi": "3.0.0",
+    "info": {
+        "title": "RentalX Docs",
+        "description": "This is an api for rental app's",
+        "version": "1.0.0",
+        "contact": {
+            "email": "dapscreed@gmail.com"
+        }
+    }
+}
